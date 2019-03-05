@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+astropy
+jupyter
+git+git://github.com/AstroHuntsman/gunagala@master#egg=gunagala
